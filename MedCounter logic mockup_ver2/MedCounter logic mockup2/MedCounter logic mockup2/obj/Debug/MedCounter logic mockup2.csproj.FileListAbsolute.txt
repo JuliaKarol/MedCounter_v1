@@ -1,0 +1,54 @@
+C:\Users\48661\source\repos\MedCounter logic mockup2\MedCounter logic mockup2\bin\Debug\MedCounter logic mockup2.exe.config
+C:\Users\48661\source\repos\MedCounter logic mockup2\MedCounter logic mockup2\bin\Debug\MedCounter logic mockup2.exe
+C:\Users\48661\source\repos\MedCounter logic mockup2\MedCounter logic mockup2\bin\Debug\MedCounter logic mockup2.pdb
+C:\Users\48661\source\repos\MedCounter logic mockup2\MedCounter logic mockup2\bin\Debug\RJCodeAdvance.RJControls.dll
+C:\Users\48661\source\repos\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter logic mockup2.csproj.AssemblyReference.cache
+C:\Users\48661\source\repos\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter_logic_mockup2.Form1.resources
+C:\Users\48661\source\repos\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter_logic_mockup2.Properties.Resources.resources
+C:\Users\48661\source\repos\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter logic mockup2.csproj.GenerateResource.cache
+C:\Users\48661\source\repos\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter logic mockup2.csproj.CoreCompileInputs.cache
+C:\Users\48661\source\repos\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter logic mockup2.csproj.CopyComplete
+C:\Users\48661\source\repos\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter logic mockup2.exe
+C:\Users\48661\source\repos\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter logic mockup2.pdb
+\\tsclient\E\MedCounter logic mockup2\MedCounter logic mockup2\bin\Debug\MedCounter logic mockup2.exe.config
+\\tsclient\E\MedCounter logic mockup2\MedCounter logic mockup2\bin\Debug\MedCounter logic mockup2.exe
+\\tsclient\E\MedCounter logic mockup2\MedCounter logic mockup2\bin\Debug\MedCounter logic mockup2.pdb
+\\tsclient\E\MedCounter logic mockup2\MedCounter logic mockup2\bin\Debug\RJCodeAdvance.RJControls.dll
+\\tsclient\E\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter logic mockup2.csprojAssemblyReference.cache
+\\tsclient\E\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter_logic_mockup2.Form1.resources
+\\tsclient\E\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter_logic_mockup2.Properties.Resources.resources
+\\tsclient\E\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter logic mockup2.csproj.GenerateResource.cache
+\\tsclient\E\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter logic mockup2.csproj.CopyComplete
+\\tsclient\E\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter logic mockup2.exe
+\\tsclient\E\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter logic mockup2.pdb
+K:\MedCounter logic mockup2\MedCounter logic mockup2\bin\Debug\MedCounter logic mockup2.exe.config
+K:\MedCounter logic mockup2\MedCounter logic mockup2\bin\Debug\MedCounter logic mockup2.exe
+K:\MedCounter logic mockup2\MedCounter logic mockup2\bin\Debug\MedCounter logic mockup2.pdb
+K:\MedCounter logic mockup2\MedCounter logic mockup2\bin\Debug\RJCodeAdvance.RJControls.dll
+K:\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter logic mockup2.csproj.AssemblyReference.cache
+K:\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter_logic_mockup2.Form1.resources
+K:\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter_logic_mockup2.Properties.Resources.resources
+K:\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter logic mockup2.csproj.GenerateResource.cache
+K:\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter logic mockup2.csproj.CoreCompileInputs.cache
+K:\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter logic mockup2.csproj.CopyComplete
+K:\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter logic mockup2.exe
+K:\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter logic mockup2.pdb
+G:\repos\MedCounter logic mockup2\MedCounter logic mockup2\bin\Debug\MedCounter logic mockup2.exe.config
+G:\repos\MedCounter logic mockup2\MedCounter logic mockup2\bin\Debug\MedCounter logic mockup2.exe
+G:\repos\MedCounter logic mockup2\MedCounter logic mockup2\bin\Debug\MedCounter logic mockup2.pdb
+G:\repos\MedCounter logic mockup2\MedCounter logic mockup2\bin\Debug\RJCodeAdvance.RJControls.dll
+G:\repos\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter logic mockup2.csproj.AssemblyReference.cache
+G:\repos\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter_logic_mockup2.Form1.resources
+G:\repos\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter_logic_mockup2.Properties.Resources.resources
+G:\repos\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter logic mockup2.csproj.GenerateResource.cache
+G:\repos\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter logic mockup2.csproj.CoreCompileInputs.cache
+G:\repos\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter logic mockup2.csproj.CopyComplete
+G:\repos\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter logic mockup2.exe
+G:\repos\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter logic mockup2.pdb
+G:\repos\poligon\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter logic mockup2.csproj.AssemblyReference.cache
+G:\repos\poligon\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter_logic_mockup2.Form1.resources
+G:\repos\poligon\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter_logic_mockup2.Properties.Resources.resources
+G:\repos\poligon\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter logic mockup2.csproj.GenerateResource.cache
+G:\repos\poligon\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter logic mockup2.csproj.CoreCompileInputs.cache
+G:\repos\poligon\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter logic mockup2.exe
+G:\repos\poligon\MedCounter logic mockup2\MedCounter logic mockup2\obj\Debug\MedCounter logic mockup2.pdb
